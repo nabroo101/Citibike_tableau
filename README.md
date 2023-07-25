@@ -60,5 +60,18 @@ Percentage Change = (New Value - Old Value) / |Old Value| * 100%
 The decrease in both categories suggests an overall drop in ridership during the colder months, which is consistent with expectations considering the weather conditions. 
 
 we can also notice the percentage drop for subscribers is lower than the percentage drop for customers . which means most of the subscribers are a newyork residents . which means they ride for living not like customers as a liesure. 
+## Peak Hours of Bike Usage
+
+After visualizing the number of trips per hour of the day, we observed specific patterns in the bike usage times. These peak times align with common commuting hours, suggesting that the bike sharing program is heavily utilized for daily commuting.
+
+### Morning Peak Hours
+
+The data shows that the busiest time in the morning is between 7 AM - 10 AM. The highest usage within this period is at 8 AM, with a total of 131,384 trips. This time coincides with common working hours' start times, indicating the bikes are being used for commuting to work.
+
+### Evening Peak Hours
+
+In the evening, the usage again peaks around the typical end of the workday. Between 4 PM - 7 PM, there is a significant increase in the number of trips. At 5 PM, the number of trips reaches its highest point for the day, with a total of 176,496 trips.
+
+These patterns highlight the critical role the bike-sharing program plays in the city's daily commute. Understanding these patterns can help in managing and allocating resources effectively during peak usage times.
 
 This updated README file will serve as an overall guide and summary of the findings in the New York Citi Bike analysis project.
