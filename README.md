@@ -31,3 +31,34 @@ Data for this project is obtained from the [Citi Bike Data](https://www.citibike
 This project utilizes [Tableau Public](https://public.tableau.com/en-us/s/gallery) for data visualization and reporting. however , i had access to Tableau desktop so i was able to save my files localy.
 
 
+### Total Trips
+
+During the chosen period, a total of 3,270,010 trips were recorded. This considerable figure demonstrates the importance and utilization of the bike-sharing program in New York City.
+
+### Ridership Growth
+
+To analyze ridership growth, we examined data from April 2019 to November 2019.
+
+In April 2019, a total of 353,235 trips were recorded, which grew to 488,743 trips in September 2019. This is a growth of approximately 38.37%.
+
+Following this peak, there was a drop in rides recorded right before Christmas in November 2019, with 295,273 trips. This is a decrease of approximately 39.64% compared to September 2019.
+
+### Customer vs Subscriber Ridership Changes
+
+A more granular analysis was conducted to understand how the proportions of short-term customers and annual subscribers changed over the period.
+
+In April 2019, customer trips accounted for 45,814, while subscriber trips were 307,402. By November 2019, these figures changed to 30,428 for customers and 265,325 for subscribers.
+
+This indicates a drop of approximately 33.58% for customers and a drop of around 13.7% for subscribers from April 2019 to November 2019.
+
+The percentage change has been calculated using the formula:
+
+```
+Percentage Change = (New Value - Old Value) / |Old Value| * 100%
+```
+
+The decrease in both categories suggests an overall drop in ridership during the colder months, which is consistent with expectations considering the weather conditions. 
+
+we can also notice the percentage drop for subscribers is lower than the percentage drop for customers . which means most of the subscribers are a newyork residents . which means they ride for living not like customers as a liesure. 
+
+This updated README file will serve as an overall guide and summary of the findings in the New York Citi Bike analysis project.
