@@ -75,3 +75,21 @@ In the evening, the usage again peaks around the typical end of the workday. Bet
 These patterns highlight the critical role the bike-sharing program plays in the city's daily commute. Understanding these patterns can help in managing and allocating resources effectively during peak usage times.
 
 This updated README file will serve as an overall guide and summary of the findings in the New York Citi Bike analysis project.
+
+## Customer vs Subscriber Usage Patterns
+
+Upon analyzing the usage patterns between customers and subscribers, we found interesting differences that might be attributed to the purpose of their usage.
+
+### Average Trip Duration
+
+Customers, on average, have a trip duration of 34.5 minutes, whereas subscribers have an average trip duration of 13.5 minutes. This suggests that subscribers tend to have shorter but more frequent trips. The relatively short trip duration for subscribers might be indicative of them using the bikes predominantly for commuting to work or other regular short-distance trips.
+
+In contrast, the longer average trip duration for customers suggests a more leisurely or exploratory use of the bikes. It is plausible that customers, who might be tourists or infrequent users, are utilizing the bikes for sightseeing or exploring the city at a more relaxed pace.
+
+### Number of Trips
+
+The number of trips made by customers and subscribers further substantiates these findings. Subscribers, despite their shorter trip durations, make significantly more trips - totaling 3,270,010 trips. In contrast, customers made 519,812 trips during the same period. 
+
+This supports the idea that subscribers, possibly residents, use the service frequently for routine short-distance travels. On the other hand, customers, who could be visitors or occasional users, use the service less frequently but for more extended periods per trip.
+
+These patterns provide crucial insights into the different types of users of the bike-sharing program and their distinctive usage behaviors. Understanding these patterns can help design targeted strategies to enhance the service for both user groups.
