@@ -6,21 +6,6 @@ This project is an analysis of the New York Citi Bike program, the largest bike-
 
 This project focuses on generating regular reports for city officials looking to publicize and improve the Citi Bike program. This analysis aims to answer the following questions:
 
-- How many trips have been recorded in total during the chosen period?
-- By what percentage has total ridership grown?
-- How have the proportions of short-term customers and annual subscribers changed?
-- What are the peak hours when bikes are used during the summer months?
-- What are the peak hours when bikes are used during the winter months?
-- Today, what are the top 10 stations in the city for starting a journey? 
-- Today, what are the top 10 stations in the city for ending a journey? 
-- Today, what are the bottom 10 stations in the city for starting a journey? 
-- Today, what are the bottom 10 stations in the city for ending a journey? 
-- How does the average trip duration change by the type of user? 
-- What is the average distance in miles for a bike trip?
-- Which bikes (by ID) are most likely due for repair or inspection in the timespan?
-- How variable is the utilization by bike ID?
-
-The final report will contain dashboards and visualizations to answer these questions, along with additional analysis for the observed data phenomena. 
 
 ## Files
 
@@ -30,10 +15,15 @@ Data for this project is obtained from the [Citi Bike Data](https://www.citibike
 
 This project utilizes [Tableau Public](https://public.tableau.com/en-us/s/gallery) for data visualization and reporting. however , i had access to Tableau desktop so i was able to save my files localy.
 
+## Findings
 
 ### Total Trips
 
 During the chosen period, a total of 3,270,010 trips were recorded. This considerable figure demonstrates the importance and utilization of the bike-sharing program in New York City.
+
+### Age vs Trip Duration
+
+Age vs Trip Duration average: The longest average trip durations are by users aged between 44 - 52 with an average trip duration of 1,418 seconds, followed by users aged 16 - 22 with an average trip duration of 1,118 seconds.
 
 ### Ridership Growth
 
@@ -93,3 +83,17 @@ The number of trips made by customers and subscribers further substantiates thes
 This supports the idea that subscribers, possibly residents, use the service frequently for routine short-distance travels. On the other hand, customers, who could be visitors or occasional users, use the service less frequently but for more extended periods per trip.
 
 These patterns provide crucial insights into the different types of users of the bike-sharing program and their distinctive usage behaviors. Understanding these patterns can help design targeted strategies to enhance the service for both user groups.
+
+## Tableau Story and Dashboards
+
+All these insights have been compiled into a Tableau Story, which is a sequence of visualizations that work together to convey information. Each finding is represented as a 'story point' in the Tableau Story. Two dashboards have also been created dedicated to specific data discoveries. All of these can be viewed on my [Tableau Public profile](https://public.tableau.com/profile/your_username).
+
+## Final Remarks
+
+The analysis done in this project has provided some useful insights about the usage patterns and trends in the Citi Bike program. These findings could be used to inform future decisions and improvements in the program. It's important to note that these trends could change over time, so continuous monitoring and analysis is necessary.
+
+
+
+
+
+
